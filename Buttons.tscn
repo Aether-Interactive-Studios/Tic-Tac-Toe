@@ -1,0 +1,102 @@
+[gd_scene format=2]
+
+[node name="Buttons" type="Node"]
+
+[node name="Button1" type="Button" parent="."]
+anchor_left = 0.284
+anchor_top = 0.111
+anchor_right = 0.405
+anchor_bottom = 0.29
+margin_left = -0.52002
+margin_top = 0.0799942
+margin_right = 0.599976
+margin_bottom = 0.199982
+flat = true
+
+[node name="Button2" type="Button" parent="."]
+anchor_left = 0.448
+anchor_top = 0.119
+anchor_right = 0.555
+anchor_bottom = 0.315
+margin_left = 0.559998
+margin_top = 0.32
+margin_right = -0.400024
+margin_bottom = 0.199982
+flat = true
+
+[node name="Button3" type="Button" parent="."]
+anchor_left = 0.602
+anchor_top = 0.157
+anchor_right = 0.709
+anchor_bottom = 0.297
+margin_left = 6.43994
+margin_top = -0.0400009
+margin_right = 0.479919
+margin_bottom = 0.159988
+flat = true
+
+[node name="Button4" type="Button" parent="."]
+anchor_left = 0.302
+anchor_top = 0.428
+anchor_right = 0.398
+anchor_bottom = 0.56
+margin_left = -0.560028
+margin_top = -0.160034
+margin_right = 0.559967
+margin_bottom = -0.200012
+flat = true
+
+[node name="Button5" type="Button" parent="."]
+anchor_left = 0.483
+anchor_top = 0.488
+anchor_right = 0.483
+anchor_bottom = 0.488
+margin_left = -33.2401
+margin_top = -55.36
+margin_right = 88.7599
+margin_bottom = 55.64
+flat = true
+
+[node name="Button6" type="Button" parent="."]
+anchor_left = 0.626
+anchor_top = 0.428
+anchor_right = 0.709
+anchor_bottom = 0.543
+margin_left = -0.280029
+margin_top = -0.160034
+margin_right = 0.479919
+margin_bottom = 0.039978
+flat = true
+
+[node name="Button7" type="Button" parent="."]
+anchor_left = 0.302
+anchor_top = 0.683
+anchor_right = 0.395
+anchor_bottom = 0.836
+margin_left = -0.560028
+margin_top = 0.23999
+margin_right = 0.399994
+margin_bottom = 0.0799561
+flat = true
+
+[node name="Button8" type="Button" parent="."]
+anchor_left = 0.47
+anchor_top = 0.721
+anchor_right = 0.554
+anchor_bottom = 0.836
+margin_left = 0.399963
+margin_top = -0.119995
+margin_right = -0.119995
+margin_bottom = 0.0799561
+flat = true
+
+[node name="Button9" type="Button" parent="."]
+anchor_left = 0.626
+anchor_top = 0.721
+anchor_right = 0.709
+anchor_bottom = 0.836
+margin_left = -0.280029
+margin_top = -0.119995
+margin_right = 0.479919
+margin_bottom = 0.0799561
+flat = true
