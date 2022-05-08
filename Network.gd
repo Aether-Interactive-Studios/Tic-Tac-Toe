@@ -8,13 +8,13 @@ extends Node
 func host():
 	var peer = NetworkedMultiplayerENet.new()
 
-	peer.create_server(8070)
+	peer.create_server(6969)
 
 	get_tree().set_network_peer(peer)
 func join():
 	var peer = NetworkedMultiplayerENet.new()
 
-	peer.create_client("127.0.0.1", 8070)
+	peer.create_client("127.0.0.1", 6969)
 
 	get_tree().set_network_peer(peer)
 
